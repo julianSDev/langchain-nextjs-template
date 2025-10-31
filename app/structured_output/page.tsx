@@ -23,7 +23,7 @@ export default function AgentsPage() {
             project.
           </span>
         </li>
-        <li>
+        {/* <li>
           ☎️
           <span className="ml-2">
             The chain formats the input schema and passes it into an OpenAI
@@ -70,7 +70,7 @@ export default function AgentsPage() {
           <span className="ml-2">
             Try typing e.g. <code>What a beautiful day!</code> below!
           </span>
-        </li>
+        </li> */}
       </ul>
     </GuideInfoBox>
   );

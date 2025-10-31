@@ -1,7 +1,5 @@
-# 🦜️🔗 LangChain + Next.js Starter Template
+# LangChain + Next.js Starter Template
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/langchain-ai/langchain-nextjs-template)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flangchain-nextjs-template)
 
 This template scaffolds a LangChain.js + Next.js starter app. It showcases how to use and combine LangChain modules for several
 use cases. Specifically:
@@ -15,8 +13,6 @@ use cases. Specifically:
 Most of them use Vercel's [AI SDK](https://github.com/vercel-labs/ai) to stream tokens to the client and display the incoming messages.
 
 The agents use [LangGraph.js](https://langchain-ai.github.io/langgraphjs/), LangChain's framework for building agentic workflows. They use preconfigured helper functions to minimize boilerplate, but you can replace them with custom graphs as desired.
-
-https://github.com/user-attachments/assets/e389e4e4-4fb9-4223-a4c2-dc002c8f20d3
 
 It's free-tier friendly too! Check out the [bundle size stats below](#-bundle-size).
 

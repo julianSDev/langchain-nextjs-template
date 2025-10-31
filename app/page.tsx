@@ -23,7 +23,7 @@ export default function Home() {
             project.
           </span>
         </li>
-        <li className="hidden text-l md:block">
+        {/* <li className="hidden text-l md:block">
           💻
           <span className="ml-2">
             You can find the prompt and model logic for this use-case in{" "}
@@ -48,7 +48,7 @@ export default function Home() {
           <span className="ml-2">
             Try asking e.g. <code>What is it like to be a pirate?</code> below!
           </span>
-        </li>
+        </li> */}
       </ul>
     </GuideInfoBox>
   );

@@ -23,7 +23,7 @@ export default function AgentsPage() {
             project.
           </span>
         </li>
-        <li className="hidden text-l md:block">
+        {/* <li className="hidden text-l md:block">
           🪜
           <span className="ml-2">The chain works in two steps:</span>
           <ul>
@@ -78,7 +78,7 @@ export default function AgentsPage() {
             Upload some text, then try asking e.g.{" "}
             <code>What is a document loader?</code> below!
           </span>
-        </li>
+        </li> */}
       </ul>
     </GuideInfoBox>
   );

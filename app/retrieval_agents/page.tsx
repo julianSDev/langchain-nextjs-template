@@ -23,7 +23,7 @@ export default function AgentsPage() {
             project.
           </span>
         </li>
-        <li className="hidden text-l md:block">
+        {/* <li className="hidden text-l md:block">
           🛠️
           <span className="ml-2">
             The agent has access to a vector store retriever as a tool as well
@@ -66,7 +66,7 @@ export default function AgentsPage() {
             <code>What are some ways of doing retrieval in LangChain?</code>{" "}
             below!
           </span>
-        </li>
+        </li> */}
       </ul>
     </GuideInfoBox>
   );
